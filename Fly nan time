@@ -1,4 +1,4 @@
-if os.date("%Y%m%d\n🚬𝚃𝚒𝚖𝚎 : %X %p") > "20221220" then
+if os.date("%Y%m%d\n🚬𝚃𝚒𝚖𝚎 : %X %p") > "20230108" then
 hh= gg.alert("HTTPS://APRY.HEXAT.COM")
 os.exit()
 end
